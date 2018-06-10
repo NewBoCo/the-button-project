@@ -1,0 +1,21 @@
+{
+  "name": "the-button-project",
+  "version": "1.0.0",
+  "description": "The Button Project for Summer Camp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewBoCo/the-button-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewBoCo/the-button-project/issues"
+  },
+  "homepage": "https://github.com/NewBoCo/the-button-project#readme"
+}
